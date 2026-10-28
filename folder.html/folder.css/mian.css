@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #183429;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.images1 img{
+    height: 80px;
+    width: 200px;
+    padding-left: 30px;
+}
+.part1{
+    font-size: 30px;
+    color: white;
+    display: flex;
+    gap: 40px;
+    padding-right: 30px;
+}
+.serachmain{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.serach{
+    margin-right: 0px;
+    border-radius: 10px 0px 0px 10px;
+    height: 35px;
+    background-color: white;
+}
+input{
+    border: none;
+    background-color: white;
+    border-radius: 0px 10px 10px 0px;
+    height: 35px;
+    margin-right: 20px;
+}
+main img{
+    height: 550px;
+    width: 100%;
+}
